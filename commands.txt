@@ -1,0 +1,3 @@
+start frontend server -> npm run dev
+
+start express server -> npm start
